@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yaha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b211939bed05d914e09fcab59cfac43b99e26713")]
 [assembly: System.Reflection.AssemblyProductAttribute("yaha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yaha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
